@@ -26,6 +26,17 @@ Desarrollo realizado con base en los criterios del Challenge 2 de Alura, utiliza
 ## Al seleccionar la opción 1, se registra un nuevo libro en la base de datos.
 ![image](https://github.com/user-attachments/assets/e101bd0f-589d-4c43-85cb-18f5e1ea8a47)
 
+# 2 - Ver Libros Recientes
+## Al seleccionar la opción 2, se visualizan todos los registros guardados en la base de datos.
+![image](https://github.com/user-attachments/assets/e0b69494-3660-4ee3-98e3-cd5e158476b5)
+
+# 3 - Buscar Libro por Nombre
+## Al seleccionar la opción 3, puedes realizar una búsqueda de libros por su nombre.
+![image](https://github.com/user-attachments/assets/e2fc38e8-a780-445d-a5e6-541d765c3b30)
+
+# 4 - Listar Autores de Libros Recientes
+## Al seleccionar la opción 4, se genera un listado de todos los autores de los libros que se han añadido recientemente a la base de datos.
+![image](https://github.com/user-attachments/assets/0ee6fad3-67e5-4484-ac92-4cc5b0ff5dac)
 
 
 # Manejo Informacion almacenada en DB ya consumida de la API-Gutendex 
