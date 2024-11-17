@@ -38,37 +38,34 @@ Desarrollo realizado con base en los criterios del Challenge 2 de Alura, utiliza
 ## Al seleccionar la opción 4, se genera un listado de todos los autores de los libros que se han añadido recientemente a la base de datos.
 ![image](https://github.com/user-attachments/assets/0ee6fad3-67e5-4484-ac92-4cc5b0ff5dac)
 
+# 5 - Filtrar Autores por Año
+## Al seleccionar la opción 5, se filtran los autores de la base de datos que estaban vivos en el año indicado.  
+![image](https://github.com/user-attachments/assets/47421631-eb16-4dfc-b048-3c431e2a68b9)
 
-# Manejo Informacion almacenada en DB ya consumida de la API-Gutendex 
+# 6 - Buscar Libros por Idioma
+## Al seleccionar la opción 6, se buscan los libros en la base de datos filtrados por idioma, ya sea en español o en inglés
+![image](https://github.com/user-attachments/assets/eb4c514f-d12d-4419-9c40-cee11ce8cf47)
 
-[![2.jpg](https://i.postimg.cc/8P17CRXh/2.jpg)](https://postimg.cc/w3Gqfmpv)
+# 7 - Top 10 Libros Más Populares
+## Al seleccionar la opción 7, se muestran los libros más populares
+![image](https://github.com/user-attachments/assets/a1202352-e86e-49f3-b0f1-aa6b6c3a9145)
+
+# 8 - Encontrar Autor por Nombre
+## Al seleccionar la opción 8, se realiza una búsqueda del autor utilizando su nombre.
+![image](https://github.com/user-attachments/assets/12830609-1f83-454f-8a32-27d7c00f3970)
+
+# Manejo de la información almacenada en la base de datos, que previamente ha sido consumida desde la API de Gutendex.
+![image](https://github.com/user-attachments/assets/3096c1d3-608b-4be1-99de-d55147618169)
 
 
-# 🌟 Top Libros mas descargados 🌟
-
-[![3.jpg](https://i.postimg.cc/jS2CHsb2/3.jpg)](https://postimg.cc/Jsw1mCtC)
-
-# 🌟 Tablas DB 🌟
-
-[![4.jpg](https://i.postimg.cc/XYPqxTj8/4.jpg)](https://postimg.cc/VJjzkZbr)
-
-## 🌟 IDES/ INSTALACIÓN O REQUERIMIENTOS🌟
+## IDES/ INSTALACIÓN O REQUERIMIENTOS
 - MAVEN
 - LIBRERIAS SPRING - JPA - POSTGRESDB
 - INTELIJ IDEA
 - P0
 
 
-## 🌟 Tecnologías usadas 🌟
-| Tecnología | Versión | Descripción                                                                     |
-|------------|---------|---------------------------------------------------------------------------------|
-|SPRINGBOOT       | 3.1.5       | Lenguaje para la logica y consumo api. |
-
-
-## 🤝 Redes sociales 🤝
-
--  GitHub: https://github.com/Johanlex20
--  LinkedIn: https://www.linkedin.com/in/johanlex20/
+-  LinkedIn: https://www.linkedin.com/in/andy-ruiz/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
