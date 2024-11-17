@@ -20,7 +20,11 @@ Desarrollo realizado con base en los criterios del Challenge 2 de Alura, utiliza
 
 # Menu
 
-![image](https://github.com/user-attachments/assets/a7b51933-305a-407d-bf7c-92909330b434)
+![image](https://github.com/user-attachments/assets/70c52fd3-05ef-4153-8ca5-cf4f2d0ded2b)
+
+# 1 - Añadir un Libro por su Nombre
+## Al seleccionar la opción 1, se registra un nuevo libro en la base de datos.
+![image](https://github.com/user-attachments/assets/e101bd0f-589d-4c43-85cb-18f5e1ea8a47)
 
 
 
