@@ -1,0 +1,13 @@
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+deleted file mode 100644
+--- a/.idea/.gitignore	(revision 86377dfc5e2a99107e881a01f3e49186ac4e09cb)
++++ /dev/null	(revision 86377dfc5e2a99107e881a01f3e49186ac4e09cb)
+@@ -1,3 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
