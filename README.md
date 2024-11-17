@@ -16,7 +16,7 @@
 # challenge 2-Alura-Oracle-api-consumo-back-literatura
 
 
-## 💡 SOBRE EL CODIGO 💡
+##  SOBRE EL CODIGO
 Desarrollo basado en los criterios del Challengs 2 Alura Consumo de api Gutendex, donde se optiene gran serie de datos sobre libros, aqui podemos ver menjo de json del api al desarrollo, mapeo de entidades, Jpa creacion base de datos. registro de informacion DB, consumo de esta en formata requerido, algunas de las funciones como traer libros almacenado, autores, top10 libros mas descargados.
 
 
